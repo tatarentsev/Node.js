@@ -1,0 +1,16 @@
+{
+  "name": "generation_random_password",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ilya Tatarentsev",
+  "license": "ISC",
+  "description": "Generate random security password",
+  "repository": {},
+  "dependencies": {
+    "generation_random_password": "^1.0.1"
+  }
+}
